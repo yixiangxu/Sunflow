@@ -1,0 +1,900 @@
+light {
+type spherical
+color { "sRGB nonlinear" 0.9225489 0.9225489 0.9225489 }
+radiance 8.486975
+center 355.12292 0 112.995544
+radius 0.8779842853546143
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.41752416 0.41752416 0.41752416 }
+radiance 8.244823
+center -512.83417 0 276.10345
+radius 0.6684041023254395
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.7693745 0.7693745 0.7693745 }
+radiance 13.975073
+center 416.4792 0 -423.06436
+radius 4.270693778991699
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.5792942 0.5792942 0.5792942 }
+radiance 11.867997
+center 14.396606 0 101.78937
+radius 1.2529187202453613
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.82052255 0.82052255 0.82052255 }
+radiance 13.854378
+center -399.25037 0 -49.105225
+radius 2.70550274848938
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.4070948 0.4070948 0.4070948 }
+radiance 15.772764
+center -213.93613 0 -101.68283
+radius 0.6173946857452393
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.90806484 0.90806484 0.90806484 }
+radiance 14.132064
+center -151.80737 0 35.490356
+radius 2.1945481300354004
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.7218747 0.7218747 0.7218747 }
+radiance 5.4330854
+center -256.44522 0 74.945984
+radius 4.351257085800171
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.68994266 0.68994266 0.68994266 }
+radiance 15.965241
+center 124.91553 0 50.678223
+radius 3.974027156829834
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.54019195 0.54019195 0.54019195 }
+radiance 9.3718195
+center 270.7126 0 23.14862
+radius 2.1156628131866455
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.65055525 0.65055525 0.65055525 }
+radiance 7.1877933
+center -505.01984 0 -103.739136
+radius 0.8156204223632812
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.9743284 0.9743284 0.9743284 }
+radiance 9.270065
+center -585.9137 0 -305.2801
+radius 2.383213520050049
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.67786825 0.67786825 0.67786825 }
+radiance 6.2555876
+center 41.163086 0 312.33075
+radius 3.8319525718688965
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.62606996 0.62606996 0.62606996 }
+radiance 4.8322763
+center -445.2351 0 110.93524
+radius 4.381709814071655
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.4682153 0.4682153 0.4682153 }
+radiance 13.6498575
+center -527.41504 0 210.84503
+radius 2.318636655807495
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.41602194 0.41602194 0.41602194 }
+radiance 12.877031
+center 535.8535 0 314.9171
+radius 2.7677552700042725
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.7761816 0.7761816 0.7761816 }
+radiance 13.854335
+center 545.74316 0 -176.67746
+radius 1.7505898475646973
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.8947282 0.8947282 0.8947282 }
+radiance 9.659741
+center 497.47937 0 83.89789
+radius 0.711557149887085
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.78473127 0.78473127 0.78473127 }
+radiance 8.505192
+center 451.78772 0 253.92108
+radius 1.601834774017334
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.4407984 0.4407984 0.4407984 }
+radiance 7.55968
+center -305.212 0 438.16608
+radius 2.2328600883483887
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.89902353 0.89902353 0.89902353 }
+radiance 9.787806
+center -526.60547 0 422.05878
+radius 3.1217997074127197
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.9572594 0.9572594 0.9572594 }
+radiance 5.630547
+center 299.2411 0 375.38287
+radius 1.2799441814422607
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.4869222 0.4869222 0.4869222 }
+radiance 13.912545
+center 111.111206 0 172.48438
+radius 2.116299629211426
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.62073547 0.62073547 0.62073547 }
+radiance 7.1626706
+center 383.7398 0 2.96109
+radius 3.5750203132629395
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.62633395 0.62633395 0.62633395 }
+radiance 11.493771
+center 392.7909 0 -308.82288
+radius 0.7730679512023926
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.90067315 0.90067315 0.90067315 }
+radiance 7.405158
+center 373.10748 0 -346.2541
+radius 1.178650140762329
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.60170186 0.60170186 0.60170186 }
+radiance 11.776652
+center -400.32092 0 433.53412
+radius 4.44432520866394
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.67399323 0.67399323 0.67399323 }
+radiance 7.468608
+center 427.2423 0 -14.937042
+radius 4.178365468978882
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.5291337 0.5291337 0.5291337 }
+radiance 11.7353525
+center 92.588196 0 455.50165
+radius 3.287120819091797
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.97998834 0.97998834 0.97998834 }
+radiance 4.418675
+center 346.25177 0 -446.90173
+radius 2.397045612335205
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.6592989 0.6592989 0.6592989 }
+radiance 12.278964
+center 136.27405 0 478.38623
+radius 3.3974454402923584
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.5650949 0.5650949 0.5650949 }
+radiance 4.427329
+center -386.3709 0 122.24628
+radius 4.393344163894653
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.7437812 0.7437812 0.7437812 }
+radiance 5.041235
+center 280.59625 0 252.1095
+radius 4.207498073577881
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.44041348 0.44041348 0.44041348 }
+radiance 7.6722217
+center 178.47223 0 -28.06549
+radius 2.867570161819458
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.8166076 0.8166076 0.8166076 }
+radiance 6.4722404
+center 455.45935 0 -129.8294
+radius 2.159691333770752
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.6388191 0.6388191 0.6388191 }
+radiance 5.421047
+center -69.03546 0 439.3919
+radius 1.4420077800750732
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.72336596 0.72336596 0.72336596 }
+radiance 14.580542
+center -13.188293 0 439.43854
+radius 3.4433422088623047
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.8764462 0.8764462 0.8764462 }
+radiance 10.987818
+center 324.0285 0 -66.81073
+radius 3.9788665771484375
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.720885 0.720885 0.720885 }
+radiance 15.881426
+center 456.87817 0 323.12988
+radius 0.5010406970977783
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.7482486 0.7482486 0.7482486 }
+radiance 4.0215335
+center -557.0204 0 -408.41275
+radius 2.299828290939331
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.4452967 0.4452967 0.4452967 }
+radiance 11.875496
+center -499.26468 0 -119.5426
+radius 3.8009493350982666
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.4314147 0.4314147 0.4314147 }
+radiance 15.127293
+center -495.60858 0 -126.97858
+radius 3.533639907836914
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.8483151 0.8483151 0.8483151 }
+radiance 5.477785
+center 291.59167 0 134.96686
+radius 4.211638450622559
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.46169305 0.46169305 0.46169305 }
+radiance 8.520211
+center 532.0242 0 427.25763
+radius 0.5704445838928223
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.9250934 0.9250934 0.9250934 }
+radiance 4.2360554
+center 485.74182 0 -430.01712
+radius 2.7436044216156006
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.73265123 0.73265123 0.73265123 }
+radiance 11.950662
+center 314.51764 0 36.116882
+radius 2.968893527984619
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.8735088 0.8735088 0.8735088 }
+radiance 14.854968
+center 59.464233 0 485.1471
+radius 1.6868019104003906
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.749247 0.749247 0.749247 }
+radiance 9.556436
+center -448.29285 0 -483.0873
+radius 1.2686569690704346
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.45395777 0.45395777 0.45395777 }
+radiance 10.127625
+center -20.129456 0 19.551697
+radius 2.3039371967315674
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.8301277 0.8301277 0.8301277 }
+radiance 9.852025
+center -164.39038 0 -59.895203
+radius 1.4565119743347168
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.41078568 0.41078568 0.41078568 }
+radiance 12.40901
+center 561.9325 0 -49.03763
+radius 1.4191200733184814
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.8513224 0.8513224 0.8513224 }
+radiance 10.691662
+center -539.28955 0 -264.7
+radius 3.7781076431274414
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.962481 0.962481 0.962481 }
+radiance 4.091223
+center 68.892944 0 232.8053
+radius 0.846987247467041
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.46194375 0.46194375 0.46194375 }
+radiance 9.689787
+center 258.51135 0 -298.25153
+radius 1.1350207328796387
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.48509523 0.48509523 0.48509523 }
+radiance 11.3346
+center -351.64606 0 -317.6098
+radius 2.2082228660583496
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.98080695 0.98080695 0.98080695 }
+radiance 7.8976502
+center -458.6174 0 -393.0222
+radius 3.446499824523926
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.51227057 0.51227057 0.51227057 }
+radiance 10.446005
+center 475.5475 0 362.23914
+radius 4.078906059265137
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.97471356 0.97471356 0.97471356 }
+radiance 7.091427
+center 596.68994 0 442.60498
+radius 2.014281749725342
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.45102987 0.45102987 0.45102987 }
+radiance 15.310552
+center -193.67087 0 227.1073
+radius 2.4351820945739746
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.5173066 0.5173066 0.5173066 }
+radiance 13.906088
+center -332.56116 0 198.19202
+radius 2.081141710281372
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.4739638 0.4739638 0.4739638 }
+radiance 4.7095633
+center 400.65674 0 -365.68558
+radius 3.7989275455474854
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.74225837 0.74225837 0.74225837 }
+radiance 9.396766
+center -579.8209 0 -487.18793
+radius 1.624007225036621
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.43175182 0.43175182 0.43175182 }
+radiance 5.80704
+center 195.42773 0 -354.77985
+radius 1.9978630542755127
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.6136271 0.6136271 0.6136271 }
+radiance 12.337392
+center 344.54474 0 -94.55151
+radius 3.981321334838867
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.83006346 0.83006346 0.83006346 }
+radiance 13.0494
+center -495.20645 0 -320.5552
+radius 3.00661563873291
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.77507234 0.77507234 0.77507234 }
+radiance 5.605711
+center -313.5443 0 444.1209
+radius 1.313283920288086
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.8681254 0.8681254 0.8681254 }
+radiance 12.030089
+center -97.95584 0 -167.87683
+radius 2.181765556335449
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.97870934 0.97870934 0.97870934 }
+radiance 12.300821
+center 554.7396 0 -8.245514
+radius 2.5471503734588623
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.6269964 0.6269964 0.6269964 }
+radiance 11.584773
+center -557.1482 0 -380.43063
+radius 3.9361069202423096
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.7812577 0.7812577 0.7812577 }
+radiance 10.302648
+center 88.68964 0 320.09845
+radius 1.7743945121765137
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.53311306 0.53311306 0.53311306 }
+radiance 13.859429
+center 478.57263 0 -431.1483
+radius 4.0241172313690186
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.6045762 0.6045762 0.6045762 }
+radiance 8.576834
+center -266.11096 0 -257.70468
+radius 4.3473289012908936
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.4476995 0.4476995 0.4476995 }
+radiance 4.194249
+center -369.7976 0 395.7621
+radius 3.208004951477051
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.43514317 0.43514317 0.43514317 }
+radiance 14.171369
+center -17.926453 0 367.33594
+radius 1.4288368225097656
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.6230628 0.6230628 0.6230628 }
+radiance 15.984388
+center 317.16058 0 360.04028
+radius 4.072457313537598
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.5313866 0.5313866 0.5313866 }
+radiance 8.883806
+center 231.82098 0 -269.26285
+radius 2.8505754470825195
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.5051155 0.5051155 0.5051155 }
+radiance 9.441246
+center -77.368774 0 339.51813
+radius 2.9976894855499268
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.86942816 0.86942816 0.86942816 }
+radiance 5.1530113
+center 66.2879 0 355.74548
+radius 0.7199234962463379
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.62825596 0.62825596 0.62825596 }
+radiance 14.529839
+center 424.8235 0 -127.1261
+radius 1.4385836124420166
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.4433816 0.4433816 0.4433816 }
+radiance 9.535789
+center -256.6213 0 -394.13635
+radius 2.538782835006714
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.7234708 0.7234708 0.7234708 }
+radiance 6.432935
+center 598.2927 0 151.55798
+radius 3.756636142730713
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.9075594 0.9075594 0.9075594 }
+radiance 9.844623
+center 545.2888 0 -129.39285
+radius 3.3466379642486572
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.76348287 0.76348287 0.76348287 }
+radiance 12.618813
+center 164.93658 0 -441.84912
+radius 2.9456703662872314
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.61802936 0.61802936 0.61802936 }
+radiance 11.133524
+center 416.01526 0 174.25714
+radius 1.1612439155578613
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.4414777 0.4414777 0.4414777 }
+radiance 15.578963
+center -277.39935 0 332.56732
+radius 2.6421797275543213
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.891968 0.891968 0.891968 }
+radiance 15.718479
+center -399.818 0 266.26562
+radius 3.2868220806121826
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.61556625 0.61556625 0.61556625 }
+radiance 13.992594
+center -399.73138 0 -464.07544
+radius 2.994985818862915
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.69788843 0.69788843 0.69788843 }
+radiance 11.631009
+center -581.0013 0 -88.86331
+radius 1.0975337028503418
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.8635874 0.8635874 0.8635874 }
+radiance 4.6001663
+center -255.25497 0 -452.85278
+radius 3.918715476989746
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.6573076 0.6573076 0.6573076 }
+radiance 6.246045
+center -293.9457 0 315.08075
+radius 0.6606783866882324
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.7062217 0.7062217 0.7062217 }
+radiance 11.692532
+center 478.80273 0 100.86572
+radius 1.3772387504577637
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.9462515 0.9462515 0.9462515 }
+radiance 6.606675
+center -57.462646 0 -26.828705
+radius 1.5012879371643066
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.76914203 0.76914203 0.76914203 }
+radiance 9.876723
+center 483.74463 0 469.46997
+radius 0.8535356521606445
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.8858866 0.8858866 0.8858866 }
+radiance 10.249849
+center 383.64917 0 76.89636
+radius 3.2766661643981934
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.6021065 0.6021065 0.6021065 }
+radiance 9.819962
+center -386.367 0 -437.9702
+radius 1.2052960395812988
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.86001873 0.86001873 0.86001873 }
+radiance 7.0448246
+center 291.14838 0 34.52118
+radius 2.38193678855896
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.49765706 0.49765706 0.49765706 }
+radiance 9.419657
+center -205.17468 0 67.03241
+radius 3.16013240814209
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.49540502 0.49540502 0.49540502 }
+radiance 13.727043
+center 376.4651 0 -104.4458
+radius 0.5942277908325195
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.8073571 0.8073571 0.8073571 }
+radiance 5.0774517
+center -199.00131 0 464.35352
+radius 3.9166500568389893
+samples 1
+}
+
+light {
+type spherical
+color { "sRGB nonlinear" 0.93225217 0.93225217 0.93225217 }
+radiance 12.903839
+center 295.49927 0 425.98352
+radius 1.951695442199707
+samples 1
+}
+
